@@ -1,10 +1,11 @@
 import React from 'react';
 import GlobalStyles from './styles/global';
+import Layout from './Layout';
 
 const App: React.FC = () => {
   return (
     <>
-      <h1>Teste</h1>
+      <Layout />
       <GlobalStyles />
     </>
   );
