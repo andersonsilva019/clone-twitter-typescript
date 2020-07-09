@@ -1,6 +1,6 @@
 import React from 'react';
 
-import PrfilePage from '../../components/ProfilePage';
+import ProfilePage from '../ProfilePage';
 
 import {
   Container,
